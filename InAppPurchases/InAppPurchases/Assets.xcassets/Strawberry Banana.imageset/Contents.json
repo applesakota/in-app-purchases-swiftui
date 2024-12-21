@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_ai-generated-freshness-of-autumn-orange-pumpkin-on-tree_34840251.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "vecteezy_ai-generated-freshness-of-autumn-orange-pumpkin-on-tree_34840251 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "vecteezy_ai-generated-freshness-of-autumn-orange-pumpkin-on-tree_34840251 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

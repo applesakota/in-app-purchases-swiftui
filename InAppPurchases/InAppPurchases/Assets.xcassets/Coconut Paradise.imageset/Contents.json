@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_creamy-coconut-drink-with-tropical-palm-leaves-on-a-blue_47024769.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "vecteezy_creamy-coconut-drink-with-tropical-palm-leaves-on-a-blue_47024769 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "vecteezy_creamy-coconut-drink-with-tropical-palm-leaves-on-a-blue_47024769 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
